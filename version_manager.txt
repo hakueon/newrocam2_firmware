@@ -1,3 +1,3 @@
-Neurocam2_SW_v2.0.0
-Neurocam2_FW_v2.00
-NC2_USB_Dongle_FW_v2.0
+Neurocam2_SW_v2.0.1
+Neurocam2_FW_v2.01
+NC2_USB_Dongle_FW_v2.1
